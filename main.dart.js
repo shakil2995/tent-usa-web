@@ -77742,7 +77742,7 @@ $0(){},
 $S:0}
 A.Ih.prototype={
 K(a){var s=$.ax5(),r=$.ax2()
-return new A.xt(A.aq(["/",new A.a4u(),"/solutions",new A.a4v(),"/work",new A.a4w(),"/pricing",new A.a4x(),"/about",new A.a4y(),"/contact",new A.a4z(),"/get-free-design",new A.a4A()],t.N,t.Ab),"/","Flutter App",s,r,B.PV,!1,null)}}
+return new A.xt(A.aq(["/",new A.a4u(),"/solutions",new A.a4v(),"/work",new A.a4w(),"/pricing",new A.a4x(),"/about",new A.a4y(),"/contact",new A.a4z(),"/get-free-design",new A.a4A()],t.N,t.Ab),"/","Tent Design USA",s,r,B.PV,!1,null)}}
 A.a4u.prototype={
 $1(a){return new A.qA(null)},
 $S:485}
@@ -77860,7 +77860,7 @@ s=A.X(q).i("aa<1,bP>")
 s=A.dk(A.a3(new A.aa(q,new A.ZK(),s),!0,s.i("aB.E")),B.J,B.R,B.T)
 q=s}return A.d5(r,A.dk(A.b([p,o,new A.Ly(B.y4,12,10,m,r),l,q,A.bo(r,40,r),A.c1("\xa9 2025 Tent Design USA. All Rights Reserved.",r,r,r,A.bc(r,r,B.j,r,r,r,r,r,"MontserratMedium",r,r,25,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.aS,r,r),A.bo(r,40,r)],n),B.J,B.cy,B.T),B.p,B.l,r,r,r,r,r,new A.ak(120,60,120,60),r,r,r)},
 IP(){var s=t.s
-return A.b([this.A2("COMPANY",A.b(["Solutions","Work","Pricing","About"],s)),this.A2("CONTACT",A.b(["contact@tentdesignusa.com","","",""],s)),this.A2("FAQ",A.b(["Privacy Policy","Refund Policy","Terms and Conditions"],s))],t.p)},
+return A.b([this.A2("COMPANY",A.b(["Solutions","Work","Pricing","About"],s)),this.A2("CONTACT",A.b(["contact@tentdesignusa.com","","",""],s)),this.A2("FAQ",A.b(["Privacy Policy","Refund Policy","Terms and Conditions",""],s))],t.p)},
 A2(a,b){var s=null,r=A.b([A.c1(a,s,s,s,A.bc(s,s,B.j,s,s,s,s,s,"MontserratBold",s,s,36,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),A.bo(s,8,s)],t.p)
 B.b.V(r,new A.aa(b,new A.ZJ(),A.X(b).i("aa<1,f>")))
 return A.dk(r,B.bK,B.R,B.T)}}
